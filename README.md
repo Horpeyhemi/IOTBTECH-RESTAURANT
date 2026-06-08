@@ -1,4 +1,4 @@
-# IOTBTECH-RESTAURANT Dataset 
+# IOTBTECH-RESTAURANT DATASET
 ### Overview ###
 This dataset contains daily food records for a Nigerian Restaurant. Data contains orders from *Monday 4/20/2026* to  *Sunday 4/26/2026* across 4 locations in Lagos: **Lekki**, **Ikeja**, **Surulere**, and **Yaba** 
 Use it for sales analysis, Pivot tables, Dashboards and practice Excel sheets. 
@@ -26,10 +26,10 @@ Use it for sales analysis, Pivot tables, Dashboards and practice Excel sheets.
 2. Revenue by Location
 3. Best Selling Meal
 4. Best Selling Category
-5. 
+ 
 ### Dashboard ###
 The dashboard summarizes key KPIs and Visuals from the raw data: 
-KPIs
+ KPIs
 1. Total Revenue
 2. Total orders
 3. Top Location
